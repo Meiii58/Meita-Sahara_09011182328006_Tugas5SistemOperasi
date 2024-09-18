@@ -1,3 +1,5 @@
+# Praktikum4
+
 # 1. Lihat daftar secara lengkap pada direktori aktif, belokkan tampilan standard output ke file baru.
 ![jwb1](https://github.com/user-attachments/assets/26bb4d42-4c63-4688-87a9-7f2282d79412)
 - -l: Menampilkan daftar lengkap file dengan detail (izin akses, pemilik, ukuran, dll.).
